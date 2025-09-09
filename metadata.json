@@ -1,0 +1,7 @@
+{
+  "name": "LinkedIn Headshot Generator",
+  "description": "An AI-powered coach to help you create the perfect professional headshot for LinkedIn. Get real-time feedback, persona-based styling, and on-device analysis for privacy.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
